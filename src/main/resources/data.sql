@@ -1,0 +1,9 @@
+INSERT INTO `item` VALUES(null, 'item 1', 10.50, 10);
+INSERT INTO `item` VALUES(null, 'item 2', 20.60, 20);
+INSERT INTO `item` VALUES(null, 'item 3', 30.70, 30);
+INSERT INTO `item` VALUES(null, 'item 4', 40.80, 40);
+INSERT INTO `item` VALUES(null, 'item 5', 50.90, 50);
+INSERT INTO `item` VALUES(null, 'item 6', 60.50, 60);
+INSERT INTO `item` VALUES(null, 'item 7', 70.60, 70);
+INSERT INTO `item` VALUES(null, 'item 8', 80.70, 80);
+INSERT INTO `item` VALUES(null, 'item 9', 90.80, 90);
